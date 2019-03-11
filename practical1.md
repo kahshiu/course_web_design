@@ -141,15 +141,15 @@ table>
 ```
 
 - setting source of image
-<image src="beach.jpg">
+![beach](https://github.com/kahshiu/course_web_design/blob/master/beach.jpg)
 ```
-<image src="beach.jpg">
+<image src="https://github.com/kahshiu/course_web_design/blob/master/beach.jpg>
 ```
 
 - setting hyperlink reference
-<link href="practical2.html" width=250 height=250>
+<a href="practical2.html" width=250 height=250> practical2 </a>
 ```
-<link href="practical2.html">
+<a href="practical2.html"> practical2 </a>
 ```
 
 3. Some tags are singular   
