@@ -158,7 +158,7 @@ table>
 <hr> horizontal line
 ```
 
-###Activity
+### Activity
 To include the use of HTML into dummy page. Students can use online application to get immediate visual feedback of their work. 
 
 **Resources**
