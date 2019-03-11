@@ -141,15 +141,15 @@ table>
 ```
 
 - setting source of image
-<images src="beach.jpg">
+<image src="beach.jpg">
 ```
-<images src="beach.jpg">
+<image src="beach.jpg">
 ```
 
 - setting hyperlink reference
 <link href="practical2.html" width=250 height=250>
 ```
-<link href="practical2.html" width=250 height=250>
+<link href="practical2.html">
 ```
 
 3. Some tags are singular   
